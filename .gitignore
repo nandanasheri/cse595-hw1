@@ -1,4 +1,2 @@
-dev.csv
-test.student.csv
-train.csv
+*.csv
 stopwords.txt
